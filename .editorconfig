@@ -1,0 +1,3 @@
+[*.{cs,cpp,h,html}]
+charset = utf-8  # 使用无BOM的UTF-8
+# 或 charset = utf-8-bom  # 使用带BOM的UTF-8
